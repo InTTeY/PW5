@@ -1,0 +1,15 @@
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\bin\Debug\net6.0\PW5_3.exe
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\bin\Debug\net6.0\PW5_3.deps.json
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\bin\Debug\net6.0\PW5_3.runtimeconfig.json
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\bin\Debug\net6.0\PW5_3.dll
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\bin\Debug\net6.0\PW5_3.pdb
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.csproj.AssemblyReference.cache
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.AssemblyInfoInputs.cache
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.AssemblyInfo.cs
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.csproj.CoreCompileInputs.cache
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.dll
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\refint\PW5_3.dll
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.pdb
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\PW5_3.genruntimeconfig.cache
+C:\Users\demas.DESKTOP-LBEKIHR\Desktop\учеба\уп 03\практики\PW5\PW5_3\obj\Debug\net6.0\ref\PW5_3.dll
